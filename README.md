@@ -1,10 +1,16 @@
-# Marshmallow Doom
-
 ![Icon](http://marshmallowdoom.com/images/newlogo-halfsize.jpg)
 
-Marshmallow Doom is a source port which lightly sweetens classic Doom gameplay with new additions such as dynamic gameplay-driven music, cooperative bot players, persistent player stats, enhanced blood and gore, treasure items, new difficulty levels, customizable sandbox battles, a much-improved multiplayer experience, and more.
+# It's Done.
+
+This repository is now archived and marked as read-only.  Marshmallow Doom is as "done" as it is going to get.  Luckily it runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  It was a fun adventure into programming but the code is amateurish and useless to other programmers.  Do not bother trying to compile this project as I guarantee that it will be a waste of your valuable time.  
+
+My primary discipline is and always has been music, so check out my YouTube channel where I produce unique remixes of classic PC game music: https://www.youtube.com/channel/UCt5q-mzscR6w1q9Tm7y_oKQ
+
+Thanks to anyone who contributed feedback or bug reports.  There will be no more updates or code merges but you can still download and play it at http://www.marshmallowdoom.com
 
 ## Synopsis
+
+Marshmallow Doom is a source port which lightly sweetens classic Doom gameplay with new additions such as dynamic gameplay-driven music, cooperative bot players, persistent player stats, enhanced blood and gore, treasure items, new difficulty levels, customizable sandbox battles, a much-improved multiplayer experience, and more.
 
 Marshmallow Doom is a fork of the Crispy Doom source port. Itself being a fork of Chocolate Doom, Crispy Doom adds features such as 640x400 resolution, colored HUD text, removal of static engine limits, translucency, free vertical looking, jumping, and other modern improvements.  Marshmallow Doom greatly expands on this same ethos of a lightly-sweetened-yet-still-classic Doom gameplay experience.
 
@@ -50,18 +56,8 @@ For the full documentation, see the [wiki](https://www.chocolate-doom.org/wiki/i
 
 Download the latest Windows binary at http://www.marshmallowdoom.com/downloads/marshmallow79.zip
 
-## News
 
-### Jun 13, 2024
-
-Marshmallow Doom is as "done" as it is going to get.  It was a fun adventure into programming, but my primary creative output is and always has been music.  Check out my YouTube channel where you can hear remixes of classic PC game music: https://www.youtube.com/channel/UCt5q-mzscR6w1q9Tm7y_oKQ
-
-Marshmallow Doom runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  
-
-Thanks to anyone who contributed feedback or bug reports.  There will be no more updates or code merges but you can still download and play it at http://www.marshmallowdoom.com
-
-This repository is now archived and marked as read only.  
-
+## News Archive
 
 ### Feb 21, 2021
 
@@ -119,8 +115,6 @@ Marshmallow Doom is maintained by [Douglas R. Bell](http://douglasbellmusic.com)
 Please report any bugs, glitches or crashes that you encounter to the GitHub [Issue Tracker](https://github.com/drbelljazz/marshmallow-doom/issues).
 
 ## Legalese
-
-_(this section left unchanged from Crispy Doom readme.md)_
 
 Doom is © 1993-1996 Id Software, Inc.; 
 Boom 2.02 is © 1999 id Software, Chi Hoang, Lee Killough, Jim Flynn, Rand Phares, Ty Halderman;
