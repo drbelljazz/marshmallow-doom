@@ -52,6 +52,17 @@ Download the latest Windows binary at http://www.marshmallowdoom.com/downloads/m
 
 ## News
 
+### Jun 13, 2024
+
+Marshmallow Doom is as "done" as it is going to get.  It was a fun adventure into programming, but my primary creative output is and always has been music.  Check out my YouTube channel where you can hear remixes of classic PC game music: https://www.youtube.com/channel/UCt5q-mzscR6w1q9Tm7y_oKQ
+
+Marshmallow Doom runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  
+
+Thanks to anyone who contributed feedback or bug reports.  There will be no more updates or code merges but you can still download and play it at http://www.marshmallowdoom.com
+
+This repository is now archived and marked as read only.  
+
+
 ### Feb 21, 2021
 
 The project has come a long way in one year!  
