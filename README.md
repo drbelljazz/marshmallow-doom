@@ -2,7 +2,7 @@
 
 # It's Done.
 
-This repository is now archived and marked as read-only.  Marshmallow Doom is as "done" as it is going to get.  Luckily it runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  It was a fun adventure into programming but the code is amateurish and useless to other programmers.  Do not bother trying to compile this project as I guarantee that it will be a waste of your valuable time.  
+This repository is now archived and marked as read-only.  Marshmallow Doom is as "done" as it is going to get.  Luckily it runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  It was a fun adventure into programming but the code is amateurish and would likely make any real programmer sick just looking at it.  Do not bother trying to compile this project as I guarantee that it will be a frustrating waste of your valuable time.  
 
 My primary discipline is and always has been music, so check out my YouTube channel where I produce unique remixes of classic PC game music: https://www.youtube.com/channel/UCt5q-mzscR6w1q9Tm7y_oKQ
 
