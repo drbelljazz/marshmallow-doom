@@ -2,7 +2,9 @@
 
 # It's Done.
 
-This repository is now archived and marked as read-only.  Marshmallow Doom is as "done" as it is going to get.  Luckily it runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  It was a fun adventure into programming but the code is amateurish and would likely make any real programmer sick just by looking at it.  Do not bother trying to compile this project as I guarantee that it will be a frustrating waste of your valuable time.  
+This repository is now archived and marked as read-only.  Marshmallow Doom is as "done" as it is going to get.  Luckily it runs consistently stable and the bots are fun as hell, so it is in the perfect state to just leave it be.  
+
+It was a fun adventure into programming but the code is amateurish and would likely make any real programmer sick just by looking at it.  Do not bother trying to compile this project as I guarantee that it will be a frustrating waste of your valuable time.  I can also guarantee that if you just play it you'll have some fun, and in the end that is all that matters.  
 
 My primary discipline is and always has been music, so check out my YouTube channel where I produce unique remixes of classic PC game music: https://www.youtube.com/channel/UCt5q-mzscR6w1q9Tm7y_oKQ
 
@@ -11,8 +13,6 @@ Thanks to anyone who contributed feedback or bug reports.  There will be no more
 ## Synopsis
 
 Marshmallow Doom is a source port which lightly sweetens classic Doom gameplay with new additions such as dynamic gameplay-driven music, cooperative bot players, persistent player stats, enhanced blood and gore, treasure items, new difficulty levels, customizable sandbox battles, a much-improved multiplayer experience, and more.
-
-Marshmallow Doom is a fork of the Crispy Doom source port. Itself being a fork of Chocolate Doom, Crispy Doom adds features such as 640x400 resolution, colored HUD text, removal of static engine limits, translucency, free vertical looking, jumping, and other modern improvements.  Marshmallow Doom greatly expands on this same ethos of a lightly-sweetened-yet-still-classic Doom gameplay experience.
 
 ## Features
 
